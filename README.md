@@ -3,6 +3,7 @@
 
 - Full Thesis Document [(PDF)](https://github.com/nunobv/XTadGAN_public/blob/main/XTadGAN%20-%20Dissertation%20-%20Final_Version.pdf) 
 - Thesis Defense Presentation [(PDF)](https://github.com/nunobv/XTadGAN_public/blob/main/XTadGAN%20-%20Thesis%20Defense%20-%20NunoVasconcelos.pdf)
+- Poster [(PDF)](https://github.com/nunobv/XTadGAN_public/blob/main/XTadGAN%20-%20Poster.pdf)
 
 <br>
 <h3>Abstract</h3>
